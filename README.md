@@ -1,2 +1,2 @@
-# hello-world
+I, a curious soul, have since begining this amazing Project, began to wonder if I made this project specifically about NOT committing my changes, would a guy then be obligated to write a commit message to the effect that I didn't commit my changes by committing them? Is it safe to say I've let slip the loose flailing grip I had left on this existence the very moment I undertook this project? Or rather, a trailblazing follower of no-one with a heart of gold? One of, if not the very last true hero left? impossible to acertain at this point. But yes. Yes it does. So hard to keep these thougthts together when I'm not even writing this... you are.  # hello-world
 Sometimes being lost is the only way to get somewhere youve never been
